@@ -1,4 +1,4 @@
 # Larry Plotter
 Esta saga de libros cuentan la historia de un hacker excepcional.
-**Osvaldo Chaparro**
+**Osvaldo Chaparro**, Git fan.
 osvcha@gmail.com
